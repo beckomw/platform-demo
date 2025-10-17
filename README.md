@@ -1,8 +1,9 @@
-# platform-demo
+This project is to test the use case of making simple games with Raylib. 
+
+To run demo: 
+(run the following commands or just double click platform.exe )
+cd Debug
+./platorm 
 
 
-
-Test cast for Three.js to be used as a demo to house certain Embark Software & Video Projects. 
-These projects are for educational and training purposes only. For further reference and documentation please refer to 
-https://threejs.org/manual/#en/installation for more information. 
 
